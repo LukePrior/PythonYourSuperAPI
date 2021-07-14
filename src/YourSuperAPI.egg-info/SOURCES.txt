@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/YourSuperAPI/YourSuperAPI.py
+src/YourSuperAPI/__init__.py
+src/YourSuperAPI.egg-info/PKG-INFO
+src/YourSuperAPI.egg-info/SOURCES.txt
+src/YourSuperAPI.egg-info/dependency_links.txt
+src/YourSuperAPI.egg-info/top_level.txt
