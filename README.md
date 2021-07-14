@@ -83,7 +83,7 @@ print(data)
 ```python
 from YourSuperAPI import YourSuperAPI
 
-data = YourSuperAPI.get_data(private=False)
+data = YourSuperAPI.get_data(private=True)
 
 print(data)
 ```
