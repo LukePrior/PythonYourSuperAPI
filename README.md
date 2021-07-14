@@ -10,10 +10,21 @@ pip install YourSuperAPI
 
 ## Available Options
 
-- amountRange
-- age
-- balance
-- private
+### amountRange (default=9999)
+
+Indicate how many results to return accepts integer between 1 and 9999 or array of two values to indicate range to return.
+
+### age (default=0)
+
+Positive integer less than 100 to set account holder age.
+
+### balance (default=50000)
+
+Positive Integer or Float value to set account balance, used to determine fees for each product.
+
+### private (default=False)
+
+Boolean value to determine if private super funds will be returned.
 
 ## Examples
 
