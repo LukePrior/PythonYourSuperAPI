@@ -1,4 +1,4 @@
-# PythonYourSuperAPI
+# Python YourSuper API
 
 Python wrapper for the Australian Taxation Office [YourSuper API](https://www.ato.gov.au/YourSuper-Comparison-Tool/)
 
