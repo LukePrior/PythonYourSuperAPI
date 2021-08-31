@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='YourSuperAPI',
-    version='0.0.1',
+    version='0.0.3',
     author='Luke Prior',
     author_email='current.address@unknown.invalid',
     description='Python wrapper for the YourSuper API',
